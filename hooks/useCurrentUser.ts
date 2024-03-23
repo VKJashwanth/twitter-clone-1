@@ -13,4 +13,4 @@ const useCurrentUser = () => {
   }
 };
 
-export default useCurrentUser;
+export default useCurrentUser
